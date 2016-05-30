@@ -2,3 +2,4 @@
 #include <conio.h>
 
 
+#adding new methoding
